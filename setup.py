@@ -8,5 +8,5 @@ setup(
               'pyscard',
           ],
     license='Apache License, Version 2.0',
-    long_description=open('README.md').read(),
+    long_description=open('README.MD').read(),
 )
